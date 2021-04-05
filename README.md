@@ -1,3 +1,5 @@
+![gen_keyboard_layout](https://raw.githubusercontent.com/pragun/dove_keyboard_hw/main/photo.jpg)
+
 # dove_keyboard_hw
 Fusion 360 and Step Files to create your own Dove Keyboard.
 Please look at the [dove_keyboard_fw](https://github.com/pragun/dove_keyboard_fw) for the firmware.
