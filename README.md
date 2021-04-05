@@ -3,6 +3,7 @@
 # dove_keyboard_hw
 Fusion 360 and Step Files to create your own Dove Keyboard.
 Please look at the [dove_keyboard_fw](https://github.com/pragun/dove_keyboard_fw) for the firmware.
+The keyboard was designed in Fusion 360 using my Add-In for designing mechanical keyboards [[f3d_mkdt](https://github.com/pragun/f3d_mkdt)]
 
 Hardware used:
 1. 14 M2x8mm screws for the top_case.
